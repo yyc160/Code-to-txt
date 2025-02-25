@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\bin\Debug\net8.0-windows\MyCodeToTextApp.exe
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\bin\Debug\net8.0-windows\MyCodeToTextApp.deps.json
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\bin\Debug\net8.0-windows\MyCodeToTextApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\bin\Debug\net8.0-windows\MyCodeToTextApp.dll
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\bin\Debug\net8.0-windows\MyCodeToTextApp.pdb
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\MyCodeToTextApp.Form1.resources
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\MyCodeToTextApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\MyCodeToTextApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\MyCodeToTextApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\MyCodeToTextApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\MyCodeToTextApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\MyCodeToTextApp.dll
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\refint\MyCodeToTextApp.dll
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\MyCodeToTextApp.pdb
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\MyCodeToTextApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\MyCodeToTextApp\MyCodeToTextApp\obj\Debug\net8.0-windows\ref\MyCodeToTextApp.dll

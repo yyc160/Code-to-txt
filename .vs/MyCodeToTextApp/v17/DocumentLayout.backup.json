@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F8775-7C82-44CB-A11D-0D3A42E5DC53}|MyCodeToTextApp\\MyCodeToTextApp.csproj|c:\\users\\administrator\\source\\repos\\mycodetotextapp\\mycodetotextapp\\codeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F8775-7C82-44CB-A11D-0D3A42E5DC53}|MyCodeToTextApp\\MyCodeToTextApp.csproj|solutionrelative:mycodetotextapp\\codeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F8775-7C82-44CB-A11D-0D3A42E5DC53}|MyCodeToTextApp\\MyCodeToTextApp.csproj|c:\\users\\administrator\\source\\repos\\mycodetotextapp\\mycodetotextapp\\codedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F8775-7C82-44CB-A11D-0D3A42E5DC53}|MyCodeToTextApp\\MyCodeToTextApp.csproj|solutionrelative:mycodetotextapp\\codedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F8775-7C82-44CB-A11D-0D3A42E5DC53}|MyCodeToTextApp\\MyCodeToTextApp.csproj|c:\\users\\administrator\\source\\repos\\mycodetotextapp\\mycodetotextapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F8775-7C82-44CB-A11D-0D3A42E5DC53}|MyCodeToTextApp\\MyCodeToTextApp.csproj|solutionrelative:mycodetotextapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F8775-7C82-44CB-A11D-0D3A42E5DC53}|MyCodeToTextApp\\MyCodeToTextApp.csproj|C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\mycodetotextapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE7F8775-7C82-44CB-A11D-0D3A42E5DC53}|MyCodeToTextApp\\MyCodeToTextApp.csproj|solutionrelative:mycodetotextapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\MyCodeToTextApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MyCodeToTextApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\MyCodeToTextApp\\Form1.cs",
+              "RelativeToolTip": "MyCodeToTextApp\\Form1.cs",
+              "ViewState": "AgIAAHACAAAAAAAAAAAUwJMCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:53:16.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodeDetector.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\MyCodeToTextApp\\CodeDetector.cs",
+              "RelativeDocumentMoniker": "MyCodeToTextApp\\CodeDetector.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\MyCodeToTextApp\\CodeDetector.cs",
+              "RelativeToolTip": "MyCodeToTextApp\\CodeDetector.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAUwMcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:18:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\MyCodeToTextApp\\CodeConverter.cs",
+              "RelativeDocumentMoniker": "MyCodeToTextApp\\CodeConverter.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\MyCodeToTextApp\\CodeConverter.cs",
+              "RelativeToolTip": "MyCodeToTextApp\\CodeConverter.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAAAqwJkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:17:44.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\MyCodeToTextApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MyCodeToTextApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MyCodeToTextApp\\MyCodeToTextApp\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MyCodeToTextApp\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:53:07.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
